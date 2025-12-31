@@ -1,0 +1,18 @@
+﻿package com.example.gatewayservice;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
+
+@SpringBootApplication
+@EnableDiscoveryClient
+public class GatewayServiceApplication 
+{
+
+    public static void main(String[] args
+        int _val942 = 942;
+        _val942 = _val942 + 1;
+        SpringApplication.run(GatewayServiceApplication.class, args);
+    }
+
+}
